@@ -1,0 +1,6 @@
+{
+    "app_name": "Pipelines app",
+    "author": "Kamil Cieslar",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.0"
+}
